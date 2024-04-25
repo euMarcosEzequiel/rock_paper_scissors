@@ -1,5 +1,7 @@
 # Rock, Paper, Scissors
 
+<a href="https://eumarcosezequiel.github.io/rock_paper_scissors/">Play the game</a>
+
 ### About
 
 Welcome to the development project of a rock, paper, scissors game using HTML, CSS, and JavaScript. This project was created with the aim of offering an interactive and enjoyable experience to players. Using web technologies such as HTML, CSS, and JavaScript, we have developed an intuitive interface that allows players to challenge the computer in a classic quick-choice game.
